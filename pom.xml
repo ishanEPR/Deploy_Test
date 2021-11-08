@@ -49,6 +49,7 @@
                 </configuration>
             </plugin>
         </plugins>
+        <finalName>deploy-test</finalName>
     </build>
 
 </project>
